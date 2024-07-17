@@ -7,3 +7,4 @@ tqdm==4.66.2
 pypdf==4.0.1
 python-multipart
 ipykernel
+langchain-community
